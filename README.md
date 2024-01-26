@@ -12,5 +12,4 @@ Host/Organizing [Laracon EU](https://laracon.eu);<br>
 - 💬 `ping` me about **clean code**, **branding**, **laravel**, **development**, **design patterns**
 
 📈 my github stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=raymonrodriguez&show_icons=true&theme=gotham" alt="raymonrodriguez" />
+<img src="https://github-readme-stats.vercel.app/api?username=raymonrodriguez&show_icons=true&theme=gotham" alt="raymonrodriguez" />
