@@ -11,5 +11,6 @@ Host/Organizing [Laracon EU](https://laracon.eu);<br>
 - ⚡ Fun fact: My first line of code was not "Hello World!"
 - 💬 `ping` me about **clean code**, **branding**, **laravel**, **development**, **design patterns**
 
-📈 my github stats
-<img src="https://github-readme-stats.vercel.app/api?username=raymonrodriguez&show_icons=true&theme=gotham" alt="raymonrodriguez" />
+<br>
+
+[![Ava's Github Stats](https://github-readme-stats.vercel.app/api?username=raymonrodriguez)](https://github.com/anuraghazra/github-readme-stats)
