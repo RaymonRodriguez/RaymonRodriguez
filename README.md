@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-#### A Backend Developer by day ☼ and a Laravel Community Contributor by night ☾
+#### A Backend Developer by day ☼ using  Laravel ☾
 
 Backend Developer at [Bitbox Caribe SRL](https://www.bitboxonline.com)<br>
 Follower [Laracon EU](https://laracon.eu)<br>
